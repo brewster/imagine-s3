@@ -1,0 +1,21 @@
+{
+  "name": "imagine-s3",
+  "version": "0.1.0",
+  "description": "S3 storage for Imagine",
+  "homepage": "https://github.com/brewster/imagine-s3",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brewster/imagine-s3"
+  },
+
+  "main": "./lib/imagine-s3",
+  
+  "dependencies": {
+    "knox": "~ 0.3.1",
+    "obj-extend": "~ 0.1.0",
+    "winston": "~ 0.5.11"
+  },
+
+  "license": "MIT"
+}
